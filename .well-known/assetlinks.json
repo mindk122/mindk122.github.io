@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dreaminlab.bom",
+      "sha256_cert_fingerprints": [
+        "80:3E:29:4A:42:2C:FD:99:C6:7D:8E:A2:05:35:55:4B:63:B0:06:5E:D6:35:05:AA:3A:92:FA:5B:BD:10:04:FC"
+      ]
+    }
+  }
+]
