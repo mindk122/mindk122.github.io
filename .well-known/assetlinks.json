@@ -5,7 +5,9 @@
       "namespace": "android_app",
       "package_name": "com.dreaminlab.bom",
       "sha256_cert_fingerprints": [
-        "80:3E:29:4A:42:2C:FD:99:C6:7D:8E:A2:05:35:55:4B:63:B0:06:5E:D6:35:05:AA:3A:92:FA:5B:BD:10:04:FC"
+        "80:3E:29:4A:42:2C:FD:99:C6:7D:8E:A2:05:35:55:4B:63:B0:06:5E:D6:35:05:AA:3A:92:FA:5B:BD:10:04:FC",
+        "28:18:54:8A:6F:2D:76:DA:BE:CF:01:CB:C3:2E:AD:1D:80:DD:B4:39:00:DD:1D:30:9C:68:64:77:B4:EC:AA:38",
+        "9D:5C:F6:BC:FC:EF:71:AC:24:13:B6:93:A5:F8:E5:9D:A6:CB:38:3D:F7:C2:F5:AD:52:DD:1D:ED:9C:06:F8:FC"
       ]
     }
   }
