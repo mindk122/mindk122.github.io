@@ -1,0 +1,110 @@
+{
+  "track": "48",
+  "results": [
+    {
+      "journey": "01-boot",
+      "name": "홈 도달",
+      "ok": true,
+      "detail": "내 식물 |  | 전체",
+      "file": "C:\\Users\\mindk\\AppData\\Local\\Temp\\bom-qa\\48\\01-boot-01-홈_도달.png"
+    },
+    {
+      "journey": "01-boot",
+      "name": "하단 탭 3개",
+      "ok": true,
+      "detail": "내 식물 · 식물 촬영 · 프로필",
+      "file": "C:\\Users\\mindk\\AppData\\Local\\Temp\\bom-qa\\48\\01-boot-02-하단_탭_3개.png"
+    },
+    {
+      "journey": "02-analyze",
+      "name": "촬영 화면 진입",
+      "ok": true,
+      "detail": "",
+      "file": "C:\\Users\\mindk\\AppData\\Local\\Temp\\bom-qa\\48\\02-analyze-01-촬영_화면_진입.png"
+    },
+    {
+      "journey": "02-analyze",
+      "name": "사진 선택기 열기",
+      "ok": true,
+      "detail": "5장",
+      "file": "C:\\Users\\mindk\\AppData\\Local\\Temp\\bom-qa\\48\\02-analyze-02-사진_선택기_열기.png"
+    },
+    {
+      "journey": "02-analyze",
+      "name": "고정 사진 선택",
+      "ok": true,
+      "detail": "Photo taken on Aug 15, 2026, 2:37:46 PM",
+      "file": "C:\\Users\\mindk\\AppData\\Local\\Temp\\bom-qa\\48\\02-analyze-03-고정_사진_선택.png"
+    },
+    {
+      "journey": "02-analyze",
+      "name": "분석 완주 → 결과",
+      "ok": true,
+      "detail": "샤스타데이지 · 신뢰도 85%",
+      "file": "C:\\Users\\mindk\\AppData\\Local\\Temp\\bom-qa\\48\\02-analyze-04-분석_완주_결과.png"
+    },
+    {
+      "journey": "03-plant",
+      "name": "내 정원에 심기",
+      "ok": true,
+      "detail": "샤스타데이지",
+      "file": "C:\\Users\\mindk\\AppData\\Local\\Temp\\bom-qa\\48\\03-plant-01-내_정원에_심기.png"
+    },
+    {
+      "journey": "03-plant",
+      "name": "홈에 카드 반영",
+      "ok": true,
+      "detail": "샤스타데이지, 오늘 흠뻑",
+      "file": "C:\\Users\\mindk\\AppData\\Local\\Temp\\bom-qa\\48\\03-plant-02-홈에_카드_반영.png"
+    },
+    {
+      "journey": "03-plant",
+      "name": "내 정원 필터에 존재",
+      "ok": true,
+      "detail": "필터=내 정원 · 샤스타데이지",
+      "file": "C:\\Users\\mindk\\AppData\\Local\\Temp\\bom-qa\\48\\03-plant-03-내_정원_필터에_존재.png"
+    },
+    {
+      "journey": "04-calendar",
+      "name": "달력 열기",
+      "ok": true,
+      "detail": " |  | 2026년 8월 |  | 일",
+      "file": "C:\\Users\\mindk\\AppData\\Local\\Temp\\bom-qa\\48\\04-calendar-01-달력_열기.png"
+    },
+    {
+      "journey": "04-calendar",
+      "name": "홈으로 복귀",
+      "ok": true,
+      "detail": "홈",
+      "file": "C:\\Users\\mindk\\AppData\\Local\\Temp\\bom-qa\\48\\04-calendar-02-홈으로_복귀.png"
+    },
+    {
+      "journey": "04-calendar",
+      "name": "하드웨어 뒤로 → 홈",
+      "ok": true,
+      "detail": "앱 유지 · 홈",
+      "file": "C:\\Users\\mindk\\AppData\\Local\\Temp\\bom-qa\\48\\04-calendar-03-하드웨어_뒤로_홈.png"
+    },
+    {
+      "journey": "05-login",
+      "name": "프로필 탭",
+      "ok": true,
+      "detail": "프로필 | 로그인해 두면 폰을 바꾸거나 앱을 지워도 내 식물 기록이 그대로 남아요 | 카카오 로그인 | Google 계정으로 로그인",
+      "file": "C:\\Users\\mindk\\AppData\\Local\\Temp\\bom-qa\\48\\05-login-01-프로필_탭.png"
+    },
+    {
+      "journey": "05-login",
+      "name": "구글 로그인 개시",
+      "ok": true,
+      "detail": "Google 계정으로 로그인",
+      "file": "C:\\Users\\mindk\\AppData\\Local\\Temp\\bom-qa\\48\\05-login-02-구글_로그인_개시.png"
+    },
+    {
+      "journey": "05-login",
+      "name": "브라우저 전환 도달",
+      "ok": true,
+      "detail": "accounts.google.com",
+      "file": "C:\\Users\\mindk\\AppData\\Local\\Temp\\bom-qa\\48\\05-login-03-브라우저_전환_도달.png"
+    }
+  ]
+}
