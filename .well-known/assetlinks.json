@@ -10,5 +10,15 @@
         "9D:5C:F6:BC:FC:EF:71:AC:24:13:B6:93:A5:F8:E5:9D:A6:CB:38:3D:F7:C2:F5:AD:52:DD:1D:ED:9C:06:F8:FC"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dreaminlab.wolcheok",
+      "sha256_cert_fingerprints": [
+        "48:23:E0:1B:E5:72:73:CC:7E:D0:0D:2C:27:33:E5:89:35:FE:32:3B:F4:C1:C9:F9:2C:5C:36:AB:D4:32:E8:5F"
+      ]
+    }
   }
 ]
