@@ -1,0 +1,126 @@
+{
+  "track": "11.5",
+  "aiCalls": 4,
+  "budget": 4,
+  "results": [
+    {
+      "journey": "J1-cold-boot",
+      "name": "앱 초기화 후 부팅",
+      "ok": true,
+      "detail": "t177}",
+      "file": "J1-cold-boot-01-앱_초기화_후_부팅.png"
+    },
+    {
+      "journey": "J1-cold-boot",
+      "name": "홈 도달 · 빈 상태 문구",
+      "ok": true,
+      "detail": "빈 상태",
+      "file": "J1-cold-boot-02-홈_도달_빈_상태_문구.png"
+    },
+    {
+      "journey": "J1-cold-boot",
+      "name": "칩 필터 3개",
+      "ok": true,
+      "detail": "전체 · 잡은 것 · 발견",
+      "file": "J1-cold-boot-03-칩_필터_3개.png"
+    },
+    {
+      "journey": "J2-identify",
+      "name": "주꾸미 픽스처 식별",
+      "ok": true,
+      "detail": "",
+      "file": "J2-identify-01-주꾸미_픽스처_식별.png"
+    },
+    {
+      "journey": "J2-identify",
+      "name": "정본 매칭 · 출처 배지",
+      "ok": true,
+      "detail": "정보 출처 · 수산자원관리법",
+      "file": "J2-identify-02-정본_매칭_출처_배지.png"
+    },
+    {
+      "journey": "J2-identify",
+      "name": "규정 행 노출",
+      "ok": true,
+      "detail": "금어기 | 5월 11일~8월 31일 · 수산자원관리법",
+      "file": "J2-identify-03-규정_행_노출.png"
+    },
+    {
+      "journey": "J3-save",
+      "name": "소장하기",
+      "ok": true,
+      "detail": "저장",
+      "file": "J3-save-01-소장하기.png"
+    },
+    {
+      "journey": "J3-save",
+      "name": "홈 그리드에 반영",
+      "ok": true,
+      "detail": "카드 1장",
+      "file": "J3-save-02-홈_그리드에_반영.png"
+    },
+    {
+      "journey": "J3-save",
+      "name": "잡은 것 필터에 존재",
+      "ok": true,
+      "detail": "필터 통과",
+      "file": "J3-save-03-잡은_것_필터에_존재.png"
+    },
+    {
+      "journey": "J3-save",
+      "name": "상세 진입",
+      "ok": true,
+      "detail": "상세 도달 (별명 분기 · 삭제 진입점)",
+      "file": "J3-save-04-상세_진입.png"
+    },
+    {
+      "journey": "J5a-closed-season",
+      "name": "뱃지 상태가 오늘 기준과 일치",
+      "ok": true,
+      "detail": "구간 05-11~08-31 · 오늘 08-19 → 뱃지 있음 (일치)",
+      "file": "J5a-closed-season-01-뱃지_상태가_오늘_기준과_일치.png"
+    },
+    {
+      "journey": "J4-reject",
+      "name": "비어류 → 살아있는 물고기만",
+      "ok": true,
+      "detail": "살아있는 물고기만 알아볼 수 있어요",
+      "file": "J4-reject-01-비어류_살아있는_물고기만.png"
+    },
+    {
+      "journey": "J4-reject",
+      "name": "판독 불가 → 거절 문구",
+      "ok": true,
+      "detail": "물고기가 잘 보이게 다시 담아볼까요",
+      "file": "J4-reject-02-판독_불가_거절_문구.png"
+    },
+    {
+      "journey": "J5b-regulation-note",
+      "name": "동자개 식별",
+      "ok": true,
+      "detail": " 동자개",
+      "file": "J5b-regulation-note-01-동자개_식별.png"
+    },
+    {
+      "journey": "J5b-regulation-note",
+      "name": "규정 행 · 뱃지 없음 · 근거 미부착",
+      "ok": true,
+      "detail": "규정 | 가슴·등지느러미 가시에 독샘(취급 시 자상 국소독).",
+      "file": "J5b-regulation-note-02-규정_행_뱃지_없음_근거_미부착.png"
+    },
+    {
+      "journey": "J6-delete",
+      "name": "기록 하나 삭제",
+      "ok": true,
+      "detail": "동자개 삭제",
+      "file": "J6-delete-01-기록_하나_삭제.png"
+    },
+    {
+      "journey": "J6-delete",
+      "name": "남은 기록 전부 삭제 후 빈 상태",
+      "ok": true,
+      "detail": "빈 상태 복귀",
+      "file": "J6-delete-02-남은_기록_전부_삭제_후_빈_상태.png"
+    }
+  ]
+}
