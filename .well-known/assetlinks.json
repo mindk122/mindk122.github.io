@@ -17,7 +17,8 @@
       "namespace": "android_app",
       "package_name": "com.dreaminlab.wolcheok",
       "sha256_cert_fingerprints": [
-        "48:23:E0:1B:E5:72:73:CC:7E:D0:0D:2C:27:33:E5:89:35:FE:32:3B:F4:C1:C9:F9:2C:5C:36:AB:D4:32:E8:5F"
+        "48:23:E0:1B:E5:72:73:CC:7E:D0:0D:2C:27:33:E5:89:35:FE:32:3B:F4:C1:C9:F9:2C:5C:36:AB:D4:32:E8:5F",
+        "A5:92:CE:8C:5F:76:5E:44:4C:02:48:B8:C7:C6:4A:34:E7:A2:4C:A7:7A:FF:BD:D3:6A:1E:01:3D:FE:4C:48:26"
       ]
     }
   }
